@@ -103,6 +103,55 @@ filter: contrast(150%);
     height: 100%;
 }
 
+.btn-image{
+    background-color: yellow;
+    width: 150px;
+    height: 40px;
+}
+
+.btn-image img{
+    width: 100%;
+    height: 100%;
+}
+
+.bottom{
+    border-bottom: 1px solid rgb(194, 188, 188);
+
+}
+
+.full-width{
+    width: 100%;
+    height: 100%;
+
+}
+
+.full-width img{
+    width: 100%;
+    height: 100%;
+
+}
+
+.last-1{
+    width: 100%;
+    height: 100%;
+}
+
+.last-1 img{
+    width: 100%;
+    height: 100%;
+}
+
+.last-2{
+    width: 68%;
+    height: 88%;
+    cursor: pointer;
+}
+
+.last-2 img{
+    width: 100%;
+    height: 100%;
+    filter: contrast(200%) ;
+}
 
 
 

@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cnt-img-1{
+    width: 200px;
+    height: 300px;
+
+/* background-color: blueviolet; */
+}
+
+.cnt-img-1 img{
+    width: 100%;
+    height: 100%;
+    filter: contrast(150%);
+    
+}
+
+.bdr{
+    border: 5px solid rgb(235, 235, 235);
+}
+
+.cnt-input-1 input{
+    width: 100%;
+    height: 100%;
+background-color: rgb(229, 228, 228);
+    border: none;
+}
+
+.cnt-input-2 textarea{
+    background-color: yellowgreen;
+    width: 100%;
+    height: 100%;
+    border: none;
+background-color: rgb(229, 228, 228);
+
+}
+
+.snd-img{
+    width: 170px;
+    height: 50px;
+
+}
+
+.snd-img img{
+    width: 100%;
+    height: 100%;
+
+}
